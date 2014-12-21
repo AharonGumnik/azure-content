@@ -225,4 +225,6 @@ Example: The following code requests 8 recommendations for item "64f6eb0d-947a-4
 		</script>
 
 
-[1]: ./media/machine-learning-recommendation-api-javascript-integration/image.png
+[1]: ./media/machine-learning-recommendation-api-javascript-integration/1.png
+[2]: ./media/machine-learning-recommendation-api-javascript-integration/2.png
+[3]: ./media/machine-learning-recommendation-api-javascript-integration/3.png
